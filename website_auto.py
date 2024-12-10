@@ -8,9 +8,12 @@ URLS = {
         "https://www.youtube.com",
         "https://www.twitch.tv",
         "https://9animetv.to/home",
-        "https://www.netflix.com/browse"
+        "https://www.netflix.com/browse",
     ],
-    "work": []
+    "work": [
+        "https://mail.google.com",
+        "https://www.github.com",
+    ]
 }
 
 def open_webpages(urls):
